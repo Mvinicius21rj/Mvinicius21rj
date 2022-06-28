@@ -1,14 +1,4 @@
-<style>
-div {
-  margin: 0;
-  padding: 10px;
-  border: 2px solid #4CAF50;
-   background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/2270806-fundo-tecnologia-azul-moderno-gr%C3%A1tis-vetor.jpg);
-   }
-   p{
-    color: white;
-   }
-</style>
+
 <h3><p>Olá! Sou Marcos Vinicius 😎 </p></h3>
 
 <div style="display: inline_block">
@@ -21,7 +11,7 @@ div {
 
 <h3><p>Tecnologias usadas </p></h3>
 
-<div style="display: inline_block"><br/>
+<div style="background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/2270806-fundo-tecnologia-azul-moderno-gr%C3%A1tis-vetor.jpg);"><br/>
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
