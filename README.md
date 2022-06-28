@@ -1,10 +1,14 @@
 ### Hi there 👋
 ### Olá! Sou Marcos Vinicius 😎
 
+### Olá! Sou Marcos Vinicius 😎
+<div style="background-color: rgb(255,255,210)">
+
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-silva-oliveira/)
 [![Site_Teste](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://nebulosa.tk/)
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=mvinicius21rj&show_icons=true&theme=cobalt)
+</div>
 
 
 ## Tecnologias usadas
