@@ -1,6 +1,3 @@
-### Hi there 👋
-### Olá! Sou Marcos Vinicius 😎
-
 ### Olá! Sou Marcos Vinicius 😎
 <div style="background-color: rgb(255,255,210)">
 
