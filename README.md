@@ -1,14 +1,15 @@
 ### Olá! Sou Marcos Vinicius 😎
-<div style="display: inline_block; border: 1px solid #4CAF50; padding: 10px;"><br/>
+<div style="display: inline_block;"><br/>
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-silva-oliveira/)
 [![Site_Teste](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://nebulosa.tk/)
+
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=mvinicius21rj&show_icons=true&theme=cobalt)
 </div>
 
 #### Tecnologias usadas
 
-<div style="display: inline_block; border: 1px solid #4CAF50;padding: 10px;"><br/>
+<div style="display: inline_block;"><br/>
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -25,5 +26,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mvinicius21rj&langs_count=8)](https://github.com/Mvinicius21rj)
 
 </div>
-
-
