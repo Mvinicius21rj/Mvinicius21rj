@@ -1,17 +1,14 @@
-
-<h3><p>Olá! Sou Marcos Vinicius 😎 </p></h3>
-
-<div style="display: inline_block">
+### Olá! Sou Marcos Vinicius 😎
+<div style="display: inline_block; border: 1px solid #4CAF50; padding: 10px;"><br/>
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-silva-oliveira/)
 [![Site_Teste](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://nebulosa.tk/)
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=mvinicius21rj&show_icons=true&theme=cobalt)
 </div>
 
+#### Tecnologias usadas
 
-<h3><p>Tecnologias usadas </p></h3>
-
-<div style="background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p1/2270806-fundo-tecnologia-azul-moderno-gr%C3%A1tis-vetor.jpg);"><br/>
+<div style="display: inline_block; border: 1px solid #4CAF50;padding: 10px;"><br/>
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
